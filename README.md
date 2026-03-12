@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Anil Chetri</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BCA+Student;Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Web+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+Student;Aspiring+Software+Engineer;Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Cool+Projects+🚀" />
 </p>
 
 ---
 
-# 💫 About Me
+# 🧑‍💻 About Me
 
-🎓 I am currently pursuing **Bachelor of Computer Applications (BCA)**  
+🎓 Currently pursuing **Bachelor of Computer Applications (BCA)**  
 
 💻 Passionate about **Software Development, Web Development, AI & Machine Learning**
 
-🚀 I love building **modern web applications and experimenting with AI projects**
+🚀 I enjoy building **modern web applications and experimenting with AI projects**
 
-🌱 Currently learning **Full Stack Development & Data Science**
+🌱 Currently learning **Full Stack Development and Data Science**
 
-📫 Reach me at **anilchetri810@gmail.com**
+📫 Email: **anilchetri810@gmail.com**
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
@@ -72,7 +72,7 @@
 
 ---
 
-# 🧠 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -82,12 +82,10 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📊 3D Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anilchetri01&theme=tokyo-night"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anilchetri01&theme=tokyonight"/>
 </p>
 
 ---
@@ -100,14 +98,33 @@
 
 ---
 
-# ⚡ Fun Fact
+# 🎧 Coding Music
 
-💡 I enjoy building **modern UI interfaces and solving coding challenges.**
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31example&cover_image=true&theme=novatorem"/>
+
+</p>
 
 ---
 
+# 🧠 Developer Quote
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anilchetri01&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+“Programs must be written for people to read, and only incidentally for machines to execute.”  
+— Harold Abelson
+
+</p>
+
+---
+
+# 🔥 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anilchetri01&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
 </p>
 
 ---
